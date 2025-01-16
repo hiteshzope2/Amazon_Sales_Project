@@ -1,6 +1,6 @@
 
 -- ---------------------------
--- 22 Advanced Business Problems
+-- Advanced Business Problems
 -- ---------------------------
 
 /*
