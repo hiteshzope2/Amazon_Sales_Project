@@ -1,8 +1,5 @@
 -- Amazon Project - Advanced SQL 
 
-
-
--- Hi please make sure to follow below hirearary to import the data
 -- 1st import to category table
 -- 2nd Import to customers
 -- 3rd Import to sellers
